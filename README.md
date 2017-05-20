@@ -1,1 +1,1 @@
-# website_glim_ver
+Sitio oficial de la G:.L:.I:.M:. de Veracruz
