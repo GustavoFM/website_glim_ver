@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+ul{
+  background: var(--main-bg-color);
+  list-style: none;
+  font-size: 0.9rem;
+}
+.main-nav li>a{
+  background-color: grey;
+  color: white;
+  padding: 10px;
+  display: block;
+  text-decoration: none;
+  min-width: 100px;
+}
+.main-nav li>a:hover{
+  color: #000;
+  background-color: #eaeaea;
+  min-width: 150px;
+}
+.main-nav>li{
+  float: left;
+  text-align:center;
+}
+.main-nav>li>ul{
+  display: none;
+}
+.main-nav>li:hover>ul {
+  display:block;
+}
