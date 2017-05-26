@@ -251,11 +251,15 @@ footer address {
     background: silver;
   }
   .main-nav>li:hover>ul {
-
     display: block;
     position: static;
   }
+  section.cover-page {
+    height: 300px;
+  }
 
+  /* CLASES UTILITARIAS
+  ========================*/
   .small-img, .medium-img, .large-img {
     margin: 0;
     padding: 0;
